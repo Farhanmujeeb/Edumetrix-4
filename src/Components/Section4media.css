@@ -1,0 +1,173 @@
+@media (max-width: 500px) {
+  * {
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+  }
+  .section4-gurl-img img {
+    display: none;
+  }
+  .section4-parentdiv {
+    width: 100%;
+  }
+  .section4-h1-child {
+    font-size: 31px;
+    /* background-color: aqua; */
+  }
+  .section4-h1 {
+    font-size: 31px;
+    /* background-color: aqua; */
+  }
+  .section4-h2 {
+    /* margin-top: 5px; */
+    font-size: 18px;
+    /* background-color: aqua; */
+  }
+  .section4-h2-child {
+    font-size: 18px;
+    /* margin-top: 5px; */
+    /* background-color: aqua; */
+  }
+  .section4-heading2 {
+    overflow-y: hidden;
+    /* width: 200px; */
+    /* height: 60px; */
+    /* background-color: aqua; */
+  }
+  .section4-heangin2para {
+    font-size: 13px;
+    /* background-color: aqua; */
+    /* height: 100px; */
+    overflow-y: hidden;
+    width: 88%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+  }
+
+  .section4-paramain {
+    /* background-color: chartreuse; */
+    text-align: center;
+    height: 370px;
+    margin-top: -0px;
+    margin: 0;
+  }
+  .section4-h3 {
+    font-size: 18px;
+    /* margin-top: 5px; */
+    /* background-color: aqua; */
+  }
+  .section4-h3-child {
+    font-size: 18px;
+    /* margin-top: 5px; */
+  }
+  .section4-heading3 {
+    /* background-color: blue; */
+    /* width: 200px; */
+    height: 200px;
+    overflow-y: hidden;
+  }
+
+  .section4-headin3 {
+    font-size: 13px;
+    overflow-y: hidden;
+    /* background-color: brown; */
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 90%;
+  }
+
+  .formediadiv {
+    /* background-color: blueviolet; */
+    height: 320px;
+    width: 100%;
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .section4-main {
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-evenly; */
+    width: 100%;
+    height: fit-content;
+    /* height: 100vh; */
+  }
+  .cattailimg {
+    display: none;
+  }
+
+  .ballimg {
+    display: none;
+  }
+  .section-4-kidimg {
+    width: 150px;
+    height: 150px;
+    top: 310px;
+    left: 50px;
+  }
+  .ballimgmargintopdiv {
+    padding: 0;
+    top: 0;
+    margin: 0;
+  }
+  .formedia2 {
+    height: 330px;
+    top: 0;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    /* background-color: aqua; */
+  }
+  .section4-square1 {
+    width: 200px;
+    height: 225px;
+    overflow: hidden;
+    position: absolute;
+    top: 458px;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .section4-square1-child {
+    font-size: 20px;
+    padding: 0;
+    padding-top: 20px;
+    overflow: hidden;
+  }
+  .section4-square2 {
+    padding-bottom: 20px;
+    width: 200px;
+    height: 90px;
+  }
+  .section4-square2-child {
+    font-size: 20px;
+    padding: 0;
+    padding-top: 20px;
+  }
+  .section4-square3 {
+    width: 200px;
+    padding-bottom: 7px;
+    height: 100px;
+    bottom: 15px;
+  }
+  .section4-square3-child {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    padding-top: 28px;
+  }
+
+  .formedia3 {
+    overflow: hidden;
+  }
+}

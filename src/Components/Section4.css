@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=K2D:wght@100;200;400&display=swap");
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.section4-parentdiv {
+  width: 100%;
+  background-color: #a6a6a6;
+  font-family: "K2D", sans-serif;
+}
+.section4-gurl-img img {
+  height: 591px;
+  background-color: #d3d3d3;
+}
+.section4-main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.section4-heading1 {
+  height: 125px;
+}
+.section4-h1 {
+  font-size: 55px;
+}
+.section4-h1-child {
+  font-size: 55px;
+  top: 20px;
+}
+.section-4handp {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 230px;
+}
+.section4-handp2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 170px;
+}
+.section4-heading1 {
+  margin-bottom: 20px;
+}
+.section4-h2 {
+  font-size: 28px;
+}
+.section4-h2-child {
+  font-size: 28px;
+  bottom: 10px;
+}
+.section4-heangin2para {
+  font-size: 16.5px;
+  width: 295px;
+  color: black;
+}
+.section4-headin3 {
+  font-size: 15.5px;
+  width: 295px;
+  color: black;
+}
+.section4-h3 {
+  font-size: 28px;
+}
+.section4-h3-child {
+  font-size: 28px;
+}
+.section4-paramain {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 400px;
+  height: 540px;
+  color: white;
+  text-align: left;
+  margin-left: 5px;
+}
+.section-4-kidimg {
+  margin-top: 58px;
+  height: 300px;
+  width: 300px;
+  margin-left: 60px;
+  position: absolute;
+}
+.section4-square1 {
+  height: 145px;
+  width: 420px;
+  background-color: #164e64;
+  border-radius: 27px;
+  position: relative;
+  top: 239px;
+  color: #fff;
+}
+.section4-square1-child {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.section4-square2-child {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  color: black;
+  padding-top: 30px;
+}
+
+.section4-square3-child {
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.section4-square2 {
+  height: 145px;
+  width: 420px;
+  background-color: #d3d3d3;
+  border-radius: 27px;
+  position: relative;
+  top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.section4-square3 {
+  height: 125px;
+  width: 420px;
+  background-color: #5c9aa5;
+  border-radius: 27px 27px 10px 10px;
+  position: relative;
+  display: flex;
+  color: #fff;
+  justify-content: center;
+}
+.ballimg {
+  height: 80px;
+  width: 80px;
+  position: relative;
+  left: 350px;
+  top: -80px;
+}
+.ballimgmargintopdiv {
+  margin-top: -220px;
+}
+
+.cattailimg {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  /* background-color: aqua; */
+  right: 58px;
+  top: -36px;
+}
