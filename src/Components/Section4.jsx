@@ -54,7 +54,12 @@ const Section4 = () => {
             <div className="section-4-kidimgdiv">
               <img className="section-4-kidimg" src={guy} alt="Kid" />
             </div>
-            <div className="formedia2">
+
+
+
+
+
+
               <div className="section4-square1">
                 <h1 className="section4-square1-child">Website</h1>
                 <div className="formedia3">
@@ -66,7 +71,9 @@ const Section4 = () => {
                   </div>
                 </div>
               </div>
-            </div>
+
+
+
           </div>
         </div>
       </div>

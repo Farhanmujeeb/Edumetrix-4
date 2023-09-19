@@ -143,6 +143,9 @@
 }
 .ballimgmargintopdiv {
   margin-top: -220px;
+  position: absolute;
+  height: 100vh;
+  /* background-color: yellow; */
 }
 
 .cattailimg {
