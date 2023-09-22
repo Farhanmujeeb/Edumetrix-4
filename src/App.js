@@ -1,8 +1,6 @@
 import React from "react";
 import "./App.css";
-import Section4 from "./Components/Section4";
-import "./Components/Section4.css"  ;
-import './Components/Section4media.css'
+import Section4 from "./Components/SectionFour (2)/SectionFour/Section4";
 const App = () => {
   return (
     <div>
